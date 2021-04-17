@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=north": {"model":  "horse_mod:block/laptop"},
+		"facing=south": {"model":  "horse_mod:block/laptop", "y":  180},
+		"facing=east": {"model":  "horse_mod:block/laptop", "y":  270},
+		"facing=west": {"model":  "horse_mod:block/laptop", "y":  90}
+
+	}
+
+}

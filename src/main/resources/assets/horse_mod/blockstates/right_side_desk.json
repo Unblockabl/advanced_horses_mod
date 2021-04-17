@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=north": {"model":  "horse_mod:block/right_side_desk"},
+		"facing=south": {"model":  "horse_mod:block/right_side_desk", "y":  180},
+		"facing=east": {"model":  "horse_mod:block/right_side_desk", "y":  270},
+		"facing=west": {"model":  "horse_mod:block/right_side_desk", "y":  90}
+
+	}
+
+}

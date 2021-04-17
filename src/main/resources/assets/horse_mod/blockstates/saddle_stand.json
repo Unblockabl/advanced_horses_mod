@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": {"model":  "horse_mod:block/saddle_stand"},
+    "facing=south": {"model":  "horse_mod:block/saddle_stand", "y":  180},
+    "facing=east": {"model":  "horse_mod:block/saddle_stand", "y":  270},
+    "facing=west": {"model":  "horse_mod:block/saddle_stand", "y":  90}
+
+  }
+
+}

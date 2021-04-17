@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "horse_mod:block/moorland_grass_block"
+      },
+      {
+        "model": "horse_mod:block/moorland_grass_block",
+        "y": 90
+      },
+      {
+        "model": "horse_mod:block/moorland_grass_block",
+        "y": 180
+      },
+      {
+        "model": "horse_mod:block/moorland_grass_block_side",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "minecraft:block/grass_block_snow"
+    }
+  }
+}

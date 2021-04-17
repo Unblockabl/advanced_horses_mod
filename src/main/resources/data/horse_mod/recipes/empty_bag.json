@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "m m",
+    "m m",
+    "mmm"
+  ],
+  "key": {
+    "m": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "horse_mod:empty_bag",
+    "count": 1
+  }
+}

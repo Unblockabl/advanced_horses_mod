@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=north": {"model":  "horse_mod:block/vertical_slab"},
+		"facing=south": {"model":  "horse_mod:block/vertical_slab", "y":  180},
+		"facing=east": {"model":  "horse_mod:block/vertical_slab", "y":  270},
+		"facing=west": {"model":  "horse_mod:block/vertical_slab", "y":  90}
+
+	}
+
+}

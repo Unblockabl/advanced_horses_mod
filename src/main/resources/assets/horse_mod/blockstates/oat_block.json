@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "horse_mod:block/oat_block"
+      },
+      {
+        "model": "horse_mod:block/oat_block",
+        "y": 90
+      },
+      {
+        "model": "horse_mod:block/oat_block",
+        "y": 180
+      },
+      {
+        "model": "horse_mod:block/oat_block",
+        "y": 270
+      }
+    ]
+  }
+}

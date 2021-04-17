@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "horse_mod:block/stable_cladding"
+      },
+      {
+        "model": "horse_mod:block/stable_cladding",
+        "y": 90
+      },
+      {
+        "model": "horse_mod:block/stable_cladding",
+        "y": 180
+      },
+      {
+        "model": "horse_mod:block/stable_cladding",
+        "y": 270
+      }
+    ]
+  }
+}

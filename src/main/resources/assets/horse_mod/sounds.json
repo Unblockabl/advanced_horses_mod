@@ -1,0 +1,7 @@
+{
+  "drop_item": {
+    "category": "blocks",
+    "subtitle": "horse_mod.item_dropped",
+    "sounds": ["horse_mod:drop_item"]
+  }
+}
